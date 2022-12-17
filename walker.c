@@ -5,17 +5,17 @@
 #include <limits.h>
 #include <string.h>
 
+//prints the path
 void Print_caminho(int k, int var, int** caminho, FILE *fp)
 {
     int i;
 
     if (caminho == NULL)
     {
-        //printf("Erro 03\n");
         return;
     }
 
-
+    //error checking
     if ( var != 3)
     {
 
