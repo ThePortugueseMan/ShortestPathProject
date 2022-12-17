@@ -1,7 +1,16 @@
 # Project Description
 
-This project outputs the shortest path given a map represented by numbers. The objective is to get the smallest sum going from the inital point to the final one.
-The first line gives the parameters of the map such as, number of lines and columns, initial point ...
+<p align="center">
+  <img max-width="300" src="https://github.com/ThePortugueseMan/ShortestPathProject/blob/main/Docs/Path.png">
+</p>
+
+
+The goal of this project is to find the shortest path between two points, given a matrix describing the map.
+
+Each square in the table above represents a point. Each point has a number associated to it representing the "cost" of crossing it.
+
+The shortest path is the path with least associated "cost".
+
 
 
 # Commands
