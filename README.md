@@ -15,5 +15,7 @@ The shortest path is the path with least associated "cost".
 
 # Commands
 To test the program you must follow the steps:
+
 make - creates the executable program walker.o from walker.c
+
 ./walker path1.puz - inputs the given path and outputs a .path file with the shortest path
